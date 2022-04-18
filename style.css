@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: black;
+}
+
 .container {
   display: grid;
   max-width: 500px;
@@ -13,9 +17,9 @@
 }
 
 .pixel {
-  background-color: black;
+  background-color: white;
 }
 
 .color {
-  background-color: pink;
+  background-color: black;
 }
