@@ -13,7 +13,9 @@
 }
 
 .pixel {
-  color: orange;
   background-color: black;
+}
 
+.color {
+  background-color: pink;
 }
