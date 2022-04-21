@@ -13,7 +13,6 @@ body {
   max-height: 500px;
   min-height: 500px;
   margin: auto;
-  grid-gap: 4px;
 }
 
 .pixel {
